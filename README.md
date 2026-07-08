@@ -81,6 +81,20 @@ Power BI was used for:
 - Role analysis
 - Question-level analysis
 
+## DATA OVERVIEW
+
+The dataset contains employee engagement survey responses collected from Pierce County employees. 
+
+Item                                                     
+
+- Dataset Name :         Employees Survey Responses
+- Organisation   :                                        Pierce Country, Washington
+- Number of Records :                                        14,725
+- Number of survey Questions  :                                10
+- Number of Department  :                                       21
+- Analysis Tool      :                                       SQL & PowerBI
+
+### Dataset Description
 
 
 

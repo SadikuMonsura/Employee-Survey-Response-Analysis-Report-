@@ -19,4 +19,71 @@ Specifically, this project aims to:
 - Identify patterns and trends influencing employee satisfaction.
 - Provide actionable recommendations that can improve employee engagement and organizational performance.
 
+### Importance of the Project 
+
+Employee engagement directly impacts productivity, employee retention, organizational culture and service delivery. Understanding employees' perceptions enables management to make informed decisions that improve workplace conditions and foster a positive work environment. 
+
+This analysis helps the organization to: 
+- Understand employees' perceptions of the workplace.
+- Identify strengths that should be maintained.
+- Detect areas requiring management intervention.
+- Support evidence-based decision-making.
+- Improve employee satisfaction and organizational effectiveness.
+
+## PROBLEM STATEMENT
+
+Although employee engagement surveys provide valuable feedback, large datasets can make it difficult to identify meaningful trends without proper analysis.
+
+Pierce County requires a data-driven approach to understand:
+- Which aspects of the workplace employees value most.
+- Areas where employees are dissatisfied.
+- Whether engagement differs across departments and employee roles.
+- What actions management can take to improve employee satisfaction.
+  
+Without proper analysis, important patterns and opportunities for improvement may remain hidden.
+
+### Key Business Questions 
+
+This analysis seeks to answer the following questions:
+1. Which survey questions did employees agree with or disagree with the most?
+2. Are there noticeable patterns or trends across departments and employee roles?
+3. What actions can management take to improve employee satisfaction based on the survey findings?
+4. Which departments demonstrate the highest and lowest employee engagement?
+5. Which employee roles report the highest levels of satisfaction?
+6. What organizational strengths should be maintained?
+7. What factors may be contributing to lower employee satisfaction?
+
+## SKILLS AND CONCEPTS DEMONSTRATED
+
+This project demonstrates both technical and analytical skills.
+
+#### SQL 
+SQL was used for data preparation, including:
+- Data cleaning
+- Removing duplicate records
+- Removing incomplete records
+- Handling null values
+- Standardizing inconsistent survey questions
+- Data transformation
+- Creating a clean dataset for analysis
+
+#### Microsoft Power BI 
+
+Power BI was used for:
+- Creating calculated columns
+- Writing DAX measures
+- Calculating KPIs
+- Calculating Agreement Rate
+- Calculating Disagreement Rate
+- Creating interactive visualizations
+- Building an interactive dashboard
+- Department analysis
+- Role analysis
+- Question-level analysis
+
+
+
+
+
+
 

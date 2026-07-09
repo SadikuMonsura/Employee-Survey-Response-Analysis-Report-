@@ -155,7 +155,7 @@ The employee survey dataset was imported into PostgreSQL, after cleaning was imp
  ###  Data Cleaning
 SQL was used to remove duplicates, filter incomplete records, standardize values, and prepare the data for analysis.
 
-![](Dashboard.png)
+![](Screenshot1.png)
 
 
 

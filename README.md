@@ -182,5 +182,5 @@ Power BI DAX were used to create calculated new columns, measures and KPIs.
 
 ![](Dataset_in_PowerBI.png)
 
-
+![](DAX_in_PowerBI.png)
 

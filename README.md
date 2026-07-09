@@ -243,7 +243,10 @@ The survey questions with the highest agreement were:
 | Question |    Agreement Rate |
 | :--- | :---: |
 | 1. I know what is expected of me at work  | 92% |
-
+| 4. My supervisor or someone at work cares about me as a person  | 86 % |
+| 9.My department supports a diverse workforce  | 81% |
+| 2.I have the opportunity to do what I do best every day | 80% |
+| 5.The organization's mission makes me feel my job is important  | 80% | 
 
 
 

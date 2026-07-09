@@ -85,14 +85,15 @@ Power BI was used for:
 
 The dataset contains employee engagement survey responses collected from Pierce County employees. 
 
-Item                                                     
-
-- Dataset Name :         Employees Survey Responses
-- Organisation   :                                        Pierce Country, Washington
-- Number of Records :                                        14,725
-- Number of survey Questions  :                                10
-- Number of Department  :                                       21
-- Analysis Tool      :                                       SQL & PowerBI
+                                                  
+| Item | Description |
+| :--- | :---: |
+| Dataset Name |        Employees Survey Responses |
+| Organisation  |                                      Pierce Country, Washington |
+| Number of Records |                                       14,725 |
+| Number of survey Questions  |                               10 |
+|Number of Department  |                                      21 |
+|Analysis Tool      |                                       SQL & PowerBI |
 
 ### Dataset Description
 
@@ -236,4 +237,13 @@ The overall agreement rate indicates that most employees have a positive percept
 ### 1. Which survey questions did respondents agree with or disagree with the most?  
 #### Highest Agreement 
 The survey questions with the highest agreement were: 
+
+| Question |    Agreement Rate |
+| :--- | :---: |
+| 1. I know what is expected of me at work  | 92% |
+
+
+
+
+
 

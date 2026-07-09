@@ -184,3 +184,45 @@ Power BI DAX were used to create calculated new columns, measures and KPIs.
 
 ![](DAX_in_PowerBI.png)
 
+### Data Analysis
+
+The cleaned data was analyzed to answer the business questions by examining:
+- Overall agreement levels
+- Overall disagreement levels
+- Employee roles
+- Department performance
+- Survey question performance
+
+### Data Visualization
+An interactive Power BI dashboard was developed using:
+- KPI Cards
+- Bar Charts
+- Department Analysis
+- Role Analysis
+- Question Filters
+- Insight and Recommendation Panels
+
+  ### Survey Questions
+
+1. I know what is expected of me at work.
+2. At work, I have the opportunity to do what I do best every day.
+3. In the last seven days, I have received recognition or praise for doing good work.
+4. My supervisor or someone at work seems to care about me as a person.
+5. The mission or purpose of my organization makes me feel my job is important.
+6. I have a best friend at work.
+7. This last year, I have had opportunities at work to learn and grow.
+8. My supervisor holds employees accountable for performance.
+9. My department is inclusive and demonstrates support for a diverse workforce.
+10. Overall, I am satisfied with my job.
+
+
+## DASHBOARD
+
+![](Dashboard.png)
+
+
+
+
+
+
+

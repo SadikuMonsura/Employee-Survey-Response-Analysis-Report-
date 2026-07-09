@@ -96,6 +96,85 @@ Item
 
 ### Dataset Description
 
+Each record in the dataset represents an employee's response to one survey question. 
+The dataset captures employee opinions regarding: 
+
+- Job expectations
+- Job satisfaction
+- Employee recognition
+- Leadership support
+- Career growth
+- Accountability
+- Workplace relationships
+- Diversity and inclusion
+- Organizational purpose
+
+The survey responses were categorized into response options such as:
+- Strongly Agree
+- Agree
+- Neutral
+- Disagree
+- Strongly Disagree
+
+These responses were later grouped into Agreement and Disagreement categories during analysis.
+
+### Dataset Variables
+The dataset consists of the following key variables: 
+
+- Response ID :  Unique identifier for each survey response 
+- Status : Survey completion status
+- Department : Employee department
+- Director : Indicates whether the employee is a director 
+- Manager : Indicates whether the employee is a manager
+- Supervisor : Indicates whether the employee is a supervisor 
+- Staff : Indicates whether the employee is a staff member 
+- Question : Survey question answered 
+- Response : Employee response category 
+- Response Text : Numerical representation of the response 
+
+### Data Quality Process 
+#### Data Cleaning 
+- Removed duplicate records using SQL.
+- Removed incomplete survey responses.
+- Standardized inconsistent question wording (e.g., replacing "&" with "and").
+- Trimmed unnecessary spaces.
+- Corrected formatting inconsistencies.
+- Verified data types for each column.
+
+#### Data Transformation 
+- Created calculated columns in Power BI.
+- Convert Boolean role indicators into meaningful categories.
+- Created measures for Agreement Rate and Disagreement Rate.
+- Calculated total responses and average response scores.
+- Built KPIs for dashboard reporting.
+
+## METHODOLOGY
+### Data Collection 
+The employee survey dataset was imported into PostgreSQL, after cleaning was imported into PowerBI for analysis
+
+ ###  Data Cleaning
+SQL was used to remove duplicates, filter incomplete records, standardize values, and prepare the data for analysis.
+
+![](Dashboard.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

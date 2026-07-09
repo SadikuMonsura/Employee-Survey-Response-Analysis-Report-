@@ -177,8 +177,10 @@ SQL was used to remove duplicates, filter incomplete records, standardize values
 
 ![](Screenshot11.png)
 
+### Data Transformation 
+Power BI DAX were used to create calculated new columns, measures and KPIs. 
 
-
+![](Dataset_in_PowerBI.png)
 
 
 

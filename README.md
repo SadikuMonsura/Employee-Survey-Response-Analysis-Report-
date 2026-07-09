@@ -220,9 +220,20 @@ An interactive Power BI dashboard was developed using:
 
 ![](Dashboard.png)
 
+## ANALYSIS AND FINDINGS
 
+### Overall Employee Engagement 
+ The survey results show that employees generally have a positive opinion about working in Pierce County. 
 
+- Overall Agreement Rate: 75%
+- Overall Disagreement Rate: 22%
+- Average Response Score: 2.98
 
+#### Key Insight
+The overall agreement rate indicates that most employees have a positive perception of their workplace. However, the disagreement rate suggests that there are still important areas requiring management attention.
 
-
+### Business Questions
+### 1. Which survey questions did respondents agree with or disagree with the most?  
+#### Highest Agreement 
+The survey questions with the highest agreement were: 
 

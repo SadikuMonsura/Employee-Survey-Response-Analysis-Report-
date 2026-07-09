@@ -122,16 +122,18 @@ These responses were later grouped into Agreement and Disagreement categories du
 ### Dataset Variables
 The dataset consists of the following key variables: 
 
-- Response ID :  Unique identifier for each survey response 
-- Status : Survey completion status
-- Department : Employee department
-- Director : Indicates whether the employee is a director 
-- Manager : Indicates whether the employee is a manager
-- Supervisor : Indicates whether the employee is a supervisor 
-- Staff : Indicates whether the employee is a staff member 
-- Question : Survey question answered 
-- Response : Employee response category 
-- Response Text : Numerical representation of the response 
+| Variable | Description |
+| :--- | :---: | 
+| Response ID |  Unique identifier for each survey response |
+| Status | Survey completion status |
+| Department | Employee department |
+| Director | Indicates whether the employee is a director |
+| Manager | Indicates whether the employee is a manager |
+| Supervisor | Indicates whether the employee is a supervisor |
+| Staff | Indicates whether the employee is a staff member |
+| Question | Survey question answered | 
+| Response | Employee response category |
+| Response Text | Numerical representation of the response |
 
 ### Data Quality Process 
 #### Data Cleaning 

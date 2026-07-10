@@ -237,7 +237,7 @@ The overall agreement rate indicates that most employees have a positive percept
 
 ### Business Questions
 ### 1. Which survey questions did respondents agree with or disagree with the most?  
-#### Highest Agreement 
+### Highest Agreement 
 The survey questions with the highest agreement were: 
 
 | Question |    Agreement Rate |
@@ -248,7 +248,115 @@ The survey questions with the highest agreement were:
 | 2.I have the opportunity to do what I do best every day | 80% |
 | 5.The organization's mission makes me feel my job is important  | 80% | 
 
+Insight:  The highest agreement was for "I know what is expected of me at work." This tells us that employees clearly understand their responsibilities and what is expected of them.
 
+Many employees also believe that their supervisors care about them and that their work contributes to the organization's goals. This suggests that communication and leadership are working well.
 
+#### Key Insight
+Clear job expectations and supportive supervisors are major strengths of the organization. These are important because employees are more likely to perform well when they know what is expected and feel supported.
+
+### Highest Disagreement 
+The survey questions with the highest disagreement were: 
+
+| Question |  Disagreement Rate |
+| :--- | :---: |
+| 6. I have a best friend at work | 42% |
+| 3. I received recognition or praise in the last seven days  | 34% |
+| 8. Overall, I am satisfied with my job | 24% |
+| 10. My supervisor holds employees accountable  | 24% |
+| 7. I had opportunities to learn and grow this last year | 22% |
+
+Insight: The highest disagreement was for "I have a best friend at work." Although workplace friendships are not essential, this may suggest that employees have limited social connections or teamwork.
+
+Another important finding is that many employees do not feel they receive enough recognition for their work. Some also believe they have limited opportunities to learn, grow, and develop their careers.
+
+#### Key Insight
+Employees want more appreciation for their work and better opportunities for career growth. Improving these areas could increase employee satisfaction and motivation.
+
+### 2. Do you see any patterns or trends by department or role? 
+### Role Analysis
+The agreement rates by role were:
+- Supervisor – 81%
+- Manager – 79%
+- Director – 79%
+- Unknown – 74%
+- Staff – 73%
+
+Insignt : Although, the agreement rates are high across roles. But Supervisors reported the highest level of satisfaction, while Staff recorded the lowest.
+
+This suggests that employees in leadership positions generally have a more positive experience than frontline employees.
+
+#### Key Insight
+The organization may need to pay more attention to the needs of staff members, as they appear to be less satisfied than employees in leadership roles.
+
+### Department Analysis
+Most departments recorded high agreement rates between 87 - 72% , with departments such as Emergency Management, Human Resources, and Family Justice Center performing particularly well.
+
+However, the dashboard shows that the Sheriff's Department had only a 50% agreement rate which is the lowest.
+
+#### Key Insight
+Employee satisfaction is not the same across every department. Departments with lower satisfaction scores should be studied further to understand the specific issues affecting employees.
+
+### 3. What steps can the organization take to improve employee satisfaction? 
+The survey results suggest several areas where the organization can improve. 
+
+Employees want:
+- More recognition for the work they do.
+- More opportunities to learn new skills and grow their careers.
+- Better teamwork and stronger workplace relationships.
+- Greater overall job satisfaction.
+
+#### Key Insight
+Small improvements in recognition, training, and employee development could have a big impact on employee engagement across the organization.
+
+### ADDITIONAL INSIGHTS
+
+1. Question 6 ("I have a best friend at work") recorded an agreement rate of 46% and a disagreement rate of 42%. The small difference between the agreement and disagreement rates shows that employees have mixed opinions about workplace relationships. 
+
+#### Key Insight
+This suggests that while some employees feel connected to their colleagues, a significant number do not. Although having a best friend at work is not essential for job performance, strong workplace relationships often improve teamwork, communication, collaboration, and employee engagement.
+
+2. The Sheriff's Department recorded an agreement rate of only 36% for Question 10 ("Overall, I am satisfied with my job"), making it one of the lowest-performing departments. The department also recorded relatively low agreement rates in several other questions, including:
+   
+- Question 3 (Recognition): 26%
+- Question 6 (Best friend at work): 31%
+- Question 7 (Learning and growth): 39%
+- Question 8 (Accountability): 46%
+- Question 5 (Purpose of work): 48%
+- Question 9 (Diversity and inclusion): 55%
+
+Although the department scored higher in Question 4 (Supervisor cares about me as a person) with 62% agreement, overall engagement remains relatively low. 
+
+#### Key Insight
+The consistently low agreement across several survey questions suggest that the Sheriff's Department may be facing broader workplace challenges rather than a single isolated issue. Low scores in recognition, career development, teamwork, and overall job satisfaction indicate that employees may feel less supported and less engaged compared to employees in other departments.
+
+## RECOMMENDATIONS
+
+1. Implement a formal employee recognition program to acknowledge employee achievements and improve morale. 
+
+2. Expand learning and development opportunities by offering training, mentorship and clear career progression pathways.
+
+3. Conduct detailed investigations into lower-performing departments, such as the Sheriff's Department, to identify and address the root causes of dissatisfaction.
+
+4. Strengthen team collaboration and workplace relationships through team-building activities and cross-departmental initiatives.
+
+5. Increase engagement with frontline staff by involving them in decision-making processes, conducting regular feedback sessions, and addressing their specific workplace concerns. 
+
+6. Maintain effective leadership practices by continuing to promote clear communication, supportive supervision, and accountability across all departments.
+
+7. Monitor employee engagement regularly through periodic surveys and dashboard reporting to measure the impact of implemented initiatives and support continuous improvement.
+
+8. Although having a best friend at work is not essential for job performance. But strong workplace relationships often improve teamwork, communication, collaboration and employee engagement.
+
+9. Management should conduct a deeper review of the Sheriff's Department through employee interviews or follow-up surveys to identify the root causes of dissatisfaction.
+
+10.  Based on the findings, targeted actions such as improving employee recognition, expanding professional development opportunities, strengthening communication  and reviewing workload or work processes should be implemented to improve employee satisfaction and engagement.
+
+## CONCLUSION
+The analysis shows that Pierce County has a generally positive work environment, with employees clearly understanding their roles and feeling supported by their supervisors.
+
+ However, the findings highlight opportunities to improve employee recognition, career development, and satisfaction, particularly among staff and within the Sheriff's Department.
+
+Addressing these areas through targeted initiatives will help strengthen employee engagement, improve workplace culture and support better organizational performance.
 
 
